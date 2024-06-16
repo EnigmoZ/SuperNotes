@@ -1,0 +1,28 @@
+.bg-custom{
+	background: #00838f;
+}
+
+.navbar-brand{
+	font-size: 30px;
+}
+
+.navbar .nav-item .nav-link{
+	font-size: 20px;
+	color: white;
+}
+
+.navbar-custom .nav-item:hover .nav-link{
+	background: white;
+	color: #00838f;
+	border-radius: 10px;
+	transition: 0.3s;
+}
+
+.navbar .my-lg-0 .butt:hover{
+	background: #00838f;
+	color:white;
+	transition: 0.5s;
+}
+
+
+
